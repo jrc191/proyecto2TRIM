@@ -4,6 +4,18 @@ public class Coche extends Vehiculo{
 
     private int numero_puertas;
 
+    public Coche() {
+        super();
+    }
+
+    public Coche(String matricula, String marca, String modelo, double velocidad_maxima, int numero_puertas) {
+        this.setMatricula(matricula);
+        this.setMarca(marca);
+        this.setModelo(modelo);
+        this.setVelocidad_maxima(velocidad_maxima);
+        this.setNumero_puertas(numero_puertas);
+    }
+    
     @Override
     public String mostrar_info() {
         String info="";

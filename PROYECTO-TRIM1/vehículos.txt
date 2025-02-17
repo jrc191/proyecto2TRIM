@@ -1,0 +1,16 @@
+---------------------------
+MOTO
+Matricula: null
+Marca: null
+Modelo: null
+Velocidad Maxima: 0.0 km/h
+Cilindrada: 0
+
+---------------------------
+COCHE
+Matricula: null
+Marca: null
+Modelo: null
+Velocidad Maxima: 0.0 km/h
+Numero de Puertas: 0
+
